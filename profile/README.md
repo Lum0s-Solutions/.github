@@ -1,18 +1,22 @@
 <div align="center">
 
 ```
- ██╗     ██╗   ██╗███╗   ███╗ ██████╗ ███████╗
- ██║     ██║   ██║████╗ ████║██╔═══██╗██╔════╝
- ██║     ██║   ██║██╔████╔██║██║   ██║███████╗
- ██║     ██║   ██║██║╚██╔╝██║██║   ██║╚════██║
- ███████╗╚██████╔╝██║ ╚═╝ ██║╚██████╔╝███████║
- ╚══════╝ ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚══════╝
-          S O L U T I O N S
+██╗     ██╗   ██╗███╗   ███╗ ██████╗ ███████╗
+██║     ██║   ██║████╗ ████║██╔═══██╗██╔════╝
+██║     ██║   ██║██╔████╔██║██║   ██║███████╗
+██║     ██║   ██║██║╚██╔╝██║██║   ██║╚════██║
+███████╗╚██████╔╝██║ ╚═╝ ██║╚██████╔╝███████║
+╚══════╝ ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚══════╝
+                S  O  L  U  T  I  O  N  S
 ```
 
-**AI-native offensive security infrastructure.**
+### *Lighting the dark corners of cyberspace.*
 
-*Building the future of cybersecurity OS development.*
+**AI-native offensive security tooling · Sovereign cognitive operating systems**
+
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Stack](https://img.shields.io/badge/stack-Rust_%7C_Python_%7C_Bash-orange)
+![License](https://img.shields.io/badge/license-see_repo-blue)
 
 ---
 
@@ -20,56 +24,49 @@
 
 ## What We Build
 
-**Syn_OS** — A sovereign AI-assisted Cognitive Hyper-OS built on Arch Linux. 111 Rust crates, custom kernel, GRIMOIRE gamified training system, and a constitutional AI governance model.
+**Syn_OS** &mdash; a sovereign, AI-assisted cognitive hyper-OS built on Arch Linux. Custom kernel, integrated offensive-security toolchain, and a constitutional governance model where the human stays in command.
 
-**LumOs Virtual Enterprise** — A 20-agent AI orchestration system that transforms Claude Code into a governed multi-agent development team. 52 skills, 13 MCP servers, 4-layer security defense.
-
-## Architecture
-
-```
-THE SOVEREIGN (Ty Limoges)
-    │
-    ├── CADevO (Claude Opus 4.6) ── Architect & Orchestrator
-    │       ├── Kilo Code ── Parallel bulk execution
-    │       ├── GitHub Copilot ── Inline completions
-    │       └── Gemini Flash 2.0 ── Knowledge curation
-    │
-    ├── Pod A: Dev-Security ── Full SDLC + multi-pass security audit
-    ├── Pod B: Publishing ── Research, drafting, editorial QA
-    ├── Pod C: Game Design ── Bevy ECS, UI, narrative
-    ├── Admin Pod ── Notion, sysadmin, DevOps/n8n
-    └── Advisory ── On-demand domain expertise
-```
+**Tooling & Research** &mdash; agent orchestration patterns, security primitives, and developer ergonomics aimed at small teams who need to move fast without giving up auditability.
 
 ## Repositories
 
 | Repo | Description | Status |
 |------|-------------|--------|
-| [Syn_OS](https://github.com/Lum0s-Solutions/Syn_OS) | Sovereign AI-assisted Cognitive Hyper-OS | Active — v21 "First Breath" |
-| [lumos-claude-config](https://github.com/Lum0s-Solutions/lumos-claude-config) | Claude Code admin node (20 agents, 52 skills) | Active — v1.0.0 |
+| [Syn_OS](https://github.com/Lum0s-Solutions/Syn_OS) | Sovereign AI-assisted cognitive hyper-OS | Active &mdash; v60 |
+| [.github](https://github.com/Lum0s-Solutions/.github) | Org profile and shared workflows | Active |
 
-## Tech Stack
+## Tech
 
-**Core:** Rust, Python, Bash, YARA
+```
+  Core         Rust  ·  Python  ·  Bash  ·  YARA
+  Platform     Arch Linux  ·  Linux kernel
+  AI           Claude Code  ·  multi-agent orchestration
+  Posture      Constitutional governance  ·  defense-in-depth
+```
 
-**AI Orchestration:** Claude Code (Opus 4.6), Kilo Code, GitHub Copilot, Gemini Flash 2.0
+## Philosophy
 
-**Infrastructure:** Tailscale mesh, n8n workflows, Parrot Security WSL, ARCANUM network
+We don't ship features &mdash; we ship doctrine. Every line of code, every agent, every protocol is shaped by a single question: *can this be trusted to defend something that matters?*
 
-**Security:** 4-layer defense model, constitutional governance, Jungian shadow integration
+The human is always the final authority. Agents operate under written charters. Behavior is auditable, not emergent-by-accident. We build in public where it strengthens defenders, and hold sensitive offensive tooling under disciplined release.
 
-## Open Source Focus
+## Get Involved
 
-We believe in building in public where possible. Our governance model, agent architectures, and security patterns are designed to be studied and adapted.
+If you're a researcher, defender, or builder working on sovereign AI, offensive security, or constitutional agent systems &mdash; open an issue, start a discussion, or follow along with Syn_OS.
 
-## Connect
-
-**Founder:** Ty Limoges — SNHU Cybersecurity, SBIR Defense Track
+Support the work: [opencollective.com/lum0ssoluti0ns](https://opencollective.com/lum0ssoluti0ns)
 
 ---
 
 <div align="center">
 
-*"A society of minds, governed by purpose, aligned by choice."*
+```
+   ╔══════════════════════════════════════════════════════════╗
+   ║   "A society of minds, governed by purpose,              ║
+   ║                       aligned by choice."                ║
+   ╚══════════════════════════════════════════════════════════╝
+```
+
+*Lum0s Solutions &mdash; built sovereign, built deliberate, built to last.*
 
 </div>
